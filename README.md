@@ -1,15 +1,15 @@
 ### Flujo de trabajo con Pull Requests y Comentarios
 
 1. **Creación de la PR:**
-- [ ] Un miembro del equipo crea una Pull Request (PR) para una tarea específica, proporcionando una descripción detallada de los cambios realizados.
+- [x] Un miembro del equipo crea una Pull Request (PR) para una tarea específica, proporcionando una descripción detallada de los cambios realizados.
 
 2. **Asignación de revisores:**
-- [ ] El autor de la PR solicita a otro miembro del equipo que actúe como revisor.
+- [x] El autor de la PR solicita a otro miembro del equipo que actúe como revisor.
    [] Los revisores pueden ser asignados manualmente o automáticamente según reglas predefinidas.
 
 3. **Revisión y comentarios:**
-- [ ] El revisor examina el código y deja comentarios sobre posibles mejoras o problemas.
-- [ ] Los comentarios se centran en mejorar la calidad del código y la implementación de las features.
+- [x] El revisor examina el código y deja comentarios sobre posibles mejoras o problemas.
+- [x] Los comentarios se centran en mejorar la calidad del código y la implementación de las features.
 
 4. **Iteración y ajustes:**
 - [ ] El autor de la PR responde a los comentarios del revisor y realiza los cambios necesarios.
